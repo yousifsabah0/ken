@@ -3,3 +3,8 @@ name = "ken"
 version = "0.1.0"
 requires-python = ">=3.15.2"
 dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.3",
+]
