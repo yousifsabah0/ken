@@ -1,0 +1,35 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# python build and distribution artifacts
+dist/
+build/
+*.egg-info/
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ruff
+.ruff_cache/
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# os
+.DS_Store
+Thumbs.db
