@@ -1,0 +1,11 @@
+# Dataset
+
+This document outlines where I sourced the data for this project. Every piece of data has been hand-picked and handled with care. Each dataset will be filtered, cleaned, and structured specifically to power the model. The goal is to keep things efficient, reliable, and tailored directly to what the app needs to function smoothly.
+
+### Sources
+
+| Name                                          | URL                                                                                                       | Size  | License                                                                  | Author                                                 | Date Created | Date Updated | Files                                                       |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------ | ------------------------------------------------------ | ------------ | ------------ | ----------------------------------------------------------- |
+| Fitness Exercise & Workout Program Dataset    | [Kaggle](https://www.kaggle.com/datasets/adnanelouardi/600k-fitness-exercise-and-workout-program-dataset) | +600K | [ODbL v1.0](http://opendatacommons.org/licenses/odbl/1.0/)               | [Adnane Louardi](https://www.kaggle.com/adnanelouardi) | Nov 3, 2025  | A year ago   | programs_detailed_boostcamp_kaggle.csv, program_summary.csv |
+| GYM Recommendation                            | [Mendeley Data](https://data.mendeley.com/datasets/zw8mtbm5b9/1)                                          | +14K  | CC BY 4.0                                                                | Michel Brown                                           | Jul 23, 2024 | -            | gym_recommendation.csv                                      |
+| Personalized Fitness Goals and Wellness Plans | [Kaggle](https://www.kaggle.com/datasets/ayeshaseherr/juymmm)                                             | ~80K  | [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/) | [Ayesha Saher](https://www.kaggle.com/ayeshaseherr)    | Nov 2, 2025  | A year ago   | GYM.csv                                                     |
